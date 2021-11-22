@@ -8,4 +8,4 @@
    - Form
      - Description
      - Projectnumber
-     - Description
+     - Details
